@@ -1,1 +1,2 @@
-# duf_repo
+# Repozytorium z wykorzystanym kodem oraz najważniejszymi wynikami
+
