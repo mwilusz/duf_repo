@@ -21,3 +21,6 @@
 - `unknown_100_lengths.csv` to plik z informacjami o białkowych reprezentantach 100 losowo wybranych domen białkowych o nieznanej funkcji, dla których Chainsaw wykryło domenę odpowiadającą domenie z Pfam, zawiera też informacje o długości domeny z Pfam, długości domeny z Chainsaw, długości części wspólnej obu domen, procent pokrycia względem Pfam i procent pokrycia względem Chainsaw
 - `summary_results.zip` plik zawierający skompresowany folder z podsumowaniem wszystkich wyników tworzonym przez plik `100_duf_summary.ipynb` oraz jego wcześniejsze wersje
 - `known_raw_deepfri_results.zip` i `unknown_raw_deepfri_results.zip` zawiera foldery z surowymi wynikami DeepFRI dla reprezentantów 100 losowo wybranych domen o znanej i nieznanej funkcji z Chainsaw i Pfam
+- `pvalue_tables.ods` plik zawierający arkusze z kolejnymi liczonymi porówananiami rezultatów między grupami
+
+
